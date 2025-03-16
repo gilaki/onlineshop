@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a1b8edce-1301-4083-bfab-d2cce7dea304" name="java" url="185.36.252.51">
+        <fileTransfer rootFolder="/home/onlineshop" accessType="SFTP" host="185.36.252.51" port="2020" sshConfigId="67086199-5625-4426-8a2b-0a1b0cdbb0a2" sshConfig="onlineshop@185.36.252.51:2020 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
